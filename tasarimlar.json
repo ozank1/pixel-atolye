@@ -1,0 +1,220 @@
+[
+  {
+    "id": "kuafor-zumrut",
+    "ad": "Zümrüt Kuaför",
+    "kategoriler": [
+      "Kuaför",
+      "Güzellik",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kuafor-zumrut.webp",
+    "onizlemeLinki": "onizleme/kuafor-zumrut/index.html",
+    "aciklama": "Koyu yeşil ve altın tonlarında, dev yazılı kapağıyla çok lüks duran bir kuaför tasarımı. Hizmetler fotoğraflı yuvarlak kartlarda, ekip yuvarlak fotoğraflarıyla tanıtılıyor.",
+    "ozellikler": [
+      "Fotoğrafın üstüne binen dev başlık",
+      "Google puanı ve yorum sayısı şeridi",
+      "Ekip bölümü",
+      "WhatsApp'tan 4 adımda randevu",
+      "Önce ve sonra karşılaştırması"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "kafe",
+    "ad": "Limon Ağacı Kafe",
+    "kategoriler": [
+      "Kafe",
+      "Restoran",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kafe.webp",
+    "onizlemeLinki": "onizleme/kafe/index.html",
+    "aciklama": "Sıcak kiremit ve krem tonlarında, kemerli fotoğraflarla samimi bir kafe sitesi. Fiyatlı menü, öne çıkan lezzetler ve WhatsApp'tan masa ayırtma hazır.",
+    "ozellikler": [
+      "Kemerli fotoğraflar ve dönen damga",
+      "Fiyatlı menü kartları",
+      "Öne çıkan lezzetler",
+      "WhatsApp'tan masa ayırtma",
+      "Çalışma saatleri ve harita"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "otel",
+    "ad": "Mavi Koy Butik Otel",
+    "kategoriler": [
+      "Otel Konaklama",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/otel.webp",
+    "onizlemeLinki": "onizleme/otel/index.html",
+    "aciklama": "Ege mavisi ve kum tonlarında, tam ekran fotoğraflı butik otel ve pansiyon sitesi. Misafir giriş ve çıkış tarihini seçip WhatsApp'tan müsaitlik sorar.",
+    "ozellikler": [
+      "Tarih ve kişi seçmeli rezervasyon kutusu",
+      "Oda kartları ve fiyat sor düğmesi",
+      "Olanaklar bölümü",
+      "Plaj ve çevre mesafeleri",
+      "Fotoğraf galerisi"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "restoran",
+    "ad": "Rıhtım Balık",
+    "kategoriler": [
+      "Restoran",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/restoran.webp",
+    "onizlemeLinki": "onizleme/restoran/index.html",
+    "aciklama": "Lacivert ve mercan tonlarında, denize karşı bir Ege restoranı tasarımı. Balıkçı, meyhane ve deniz ürünleri restoranları için.",
+    "ozellikler": [
+      "Tam ekran manzara kapağı",
+      "Fotoğraflı öne çıkan tabaklar",
+      "Meze, ara sıcak ve balık menüsü",
+      "Tarih, saat ve kişi seçmeli rezervasyon",
+      "Google puanı ve yorumlar"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "kuafor-luks",
+    "ad": "Krem ve Altın Kuaför",
+    "kategoriler": [
+      "Kuaför",
+      "Güzellik"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kuafor-luks.webp",
+    "onizlemeLinki": "onizleme/kuafor-luks/index.html",
+    "aciklama": "Krem zemin, altın detaylar ve zarif yazılarla sade ama lüks bir salon sitesi. Bol boşluk sayesinde fotoğraflar öne çıkıyor.",
+    "ozellikler": [
+      "Zarif ve sakin tasarım",
+      "Hizmet ve fiyat listesi",
+      "Fotoğraf galerisi ve büyütme",
+      "WhatsApp'tan randevu",
+      "Sık sorulan sorular"
+    ],
+    "etiket": "Popüler"
+  },
+  {
+    "id": "dis-klinigi",
+    "ad": "Gülüş Diş Kliniği",
+    "kategoriler": [
+      "Sağlık",
+      "Kurumsal"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/dis-klinigi.webp",
+    "onizlemeLinki": "onizleme/dis-klinigi/index.html",
+    "aciklama": "Beyaz ve nane yeşili tonlarında, güven veren temiz bir diş kliniği sitesi. Sağlıkta tanıtım kurallarına uygun, bilgilendirici bir dil kullanır.",
+    "ozellikler": [
+      "Tedavi kartları ve bilgi al düğmesi",
+      "İlk muayene süreci",
+      "Hekim tanıtımı",
+      "Konu ve gün seçmeli randevu talebi",
+      "Tanıtım kurallarına uygun içerik"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "hukuk",
+    "ad": "Aksoy Hukuk Bürosu",
+    "kategoriler": [
+      "Avukat",
+      "Kurumsal",
+      "Danışmanlık"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/hukuk.webp",
+    "onizlemeLinki": "onizleme/hukuk/index.html",
+    "aciklama": "Lacivert ve pirinç tonlarında, ciddi ve klasik bir hukuk bürosu sitesi. Avukatlık reklam yasağına uygun, yorum ve iddia içermeyen tanıtıcı bir yapı.",
+    "ozellikler": [
+      "Çalışma alanları",
+      "Avukat tanıtımı",
+      "Çalışma süreci",
+      "WhatsApp'tan ön görüşme talebi",
+      "Reklam yasağına uygun içerik"
+    ],
+    "etiket": "Yeni"
+  },
+  {
+    "id": "kuafor-canli",
+    "ad": "Canlı Salon",
+    "kategoriler": [
+      "Kuaför",
+      "Güzellik"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kuafor-canli.webp",
+    "onizlemeLinki": "onizleme/kuafor-canli/index.html",
+    "aciklama": "Cesur renkler, büyük yazılar ve yuvarlak kartlarla genç ve enerjik bir salon tasarımı. Instagram kuşağına hitap eden salonlar için.",
+    "ozellikler": [
+      "Canlı ve modern renkler",
+      "Hareketli bölümler",
+      "Önce ve sonra karşılaştırması",
+      "WhatsApp'tan randevu",
+      "Telefonda alt randevu çubuğu"
+    ]
+  },
+  {
+    "id": "kuafor-noir",
+    "ad": "Noir Kuaför",
+    "kategoriler": [
+      "Kuaför",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kuafor-noir.webp",
+    "onizlemeLinki": "onizleme/kuafor-noir/index.html",
+    "aciklama": "Siyah zemin ve şampanya ışıltısıyla sinematik bir görünüm. Akşam saatlerinde açık salonlar ve erkek kuaförleri için çok yakışıyor.",
+    "ozellikler": [
+      "Koyu ve şık tema",
+      "Sinematik büyük görseller",
+      "Hizmet ve fiyat listesi",
+      "WhatsApp'tan randevu",
+      "Google harita ve çalışma saatleri"
+    ]
+  },
+  {
+    "id": "gelin-studyo",
+    "ad": "Gelin Stüdyosu",
+    "kategoriler": [
+      "Düğün Nişan",
+      "Güzellik",
+      "Kuaför"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/gelin-studyo.webp",
+    "onizlemeLinki": "onizleme/gelin-studyo/index.html",
+    "aciklama": "Siyah ve altın tonlarında, gelin saçı ve makyajı yapan stüdyolar için hazırlanmış özel bir tasarım.",
+    "ozellikler": [
+      "Gelin odaklı içerik",
+      "Paket ve hizmet tanıtımı",
+      "Fotoğraf galerisi",
+      "WhatsApp'tan tarih sorma"
+    ]
+  },
+  {
+    "id": "guzellik",
+    "ad": "Güzellik Merkezi",
+    "kategoriler": [
+      "Güzellik",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/guzellik.webp",
+    "onizlemeLinki": "onizleme/guzellik/index.html",
+    "aciklama": "Cilt bakımı, lazer ve tırnak hizmeti veren güzellik merkezleri için temiz ve sade bir tasarım.",
+    "ozellikler": [
+      "Sade ve ferah düzen",
+      "Hizmet kartları",
+      "Müşteri yorumları",
+      "Tek dokunuşla arama ve WhatsApp"
+    ]
+  }
+]
