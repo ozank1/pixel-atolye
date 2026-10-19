@@ -37,9 +37,11 @@
       "Fiyatlı menü kartları",
       "Öne çıkan lezzetler",
       "WhatsApp'tan masa ayırtma",
-      "Çalışma saatleri ve harita"
+      "Çalışma saatleri ve harita",
+      "Hediye: karekodlu menü ve masa kartları"
     ],
-    "etiket": "Yeni"
+    "etiket": "Yeni",
+    "menuLinki": "onizleme/kafe/menu/"
   },
   {
     "id": "otel",
@@ -77,7 +79,8 @@
       "Fotoğraflı öne çıkan tabaklar",
       "Meze, ara sıcak ve balık menüsü",
       "Tarih, saat ve kişi seçmeli rezervasyon",
-      "Google puanı ve yorumlar"
+      "Google puanı ve yorumlar",
+      "Hediye: karekodlu menü ve masa kartları"
     ],
     "etiket": "Yeni"
   },

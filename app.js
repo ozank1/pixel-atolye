@@ -156,6 +156,7 @@ function kartlariCiz() {
                 <div class="card-body">
                     <p class="mb-0 small fw-bold text-truncate" title="${kacis(t.ad)}">${kacis(t.ad)}</p>
                     <p class="mb-0 small text-muted text-truncate" title="${kacis(kategoriler)}">${kacis(kategoriler)}</p>
+                    ${t.menuLinki ? `<p class="mb-0 small text-success fw-semibold"><i class="bi bi-qr-code me-1"></i>Karekodlu menü hediye</p>` : ""}
                     ${AYARLAR.fiyatGoster ? `<p class="my-2 text-primary fw-semibold">${fiyatYaz(t.fiyat)}</p>` : `<div class="mb-2"></div>`}
                     <div class="d-flex align-items-center mt-2">
                         <a href="${whatsappLinki(`Merhaba, ${t.ad} tasarımı hakkında bilgi almak istiyorum`)}" target="_blank" rel="noopener" class="btn btn-xs btn-outline-secondary rounded-3" data-dur>Bilgi al</a>
@@ -202,6 +203,10 @@ function detayAc(id, hashGuncelle = true) {
     const onizleme = document.getElementById("detay-onizleme");
     onizleme.classList.toggle("d-none", !t.onizlemeLinki);
     onizleme.href = t.onizlemeLinki || "#";
+
+    const menu = document.getElementById("detay-menu");
+    menu.classList.toggle("d-none", !t.menuLinki);
+    menu.href = t.menuLinki || "#";
 
     document.getElementById("detay-siparis").href =
         whatsappLinki(AYARLAR.fiyatGoster
