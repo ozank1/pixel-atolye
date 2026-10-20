@@ -118,3 +118,15 @@ body { background: var(--zemin); font-family: Inter, system-ui, sans-serif; colo
 @media (prefers-reduced-motion: reduce) {
     .kart-gorsel img, .tasarim-kart { transition: none; }
 }
+
+/* ===== Yapay zeka asistanı önizlemesi ===== */
+.asistan-onizleme {
+    max-width: 420px; background: #1f2117; color: #f1e8d6; border-radius: 18px;
+    box-shadow: 0 20px 50px rgba(20, 30, 60, .18); overflow: hidden;
+}
+.ao-baslik { padding: 14px 18px; background: #2a2c20; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+.ao-nokta { width: 9px; height: 9px; border-radius: 50%; background: #3ecf6e; }
+.ao-mesajlar { padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.ao-m { max-width: 85%; padding: 9px 13px; border-radius: 14px; font-size: .95rem; line-height: 1.45; }
+.ao-ben { align-self: flex-end; background: #b8322a; color: #fff; border-bottom-right-radius: 4px; }
+.ao-bot { align-self: flex-start; background: #2a2c20; border-bottom-left-radius: 4px; }
