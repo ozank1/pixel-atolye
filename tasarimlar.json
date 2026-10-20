@@ -1,5 +1,27 @@
 [
   {
+    "id": "kahve-evi",
+    "ad": "Telve Kahve Evi",
+    "kategoriler": [
+      "Kafe",
+      "Yerel İşletme"
+    ],
+    "fiyat": 6900,
+    "gorsel": "img/kahve-evi.webp",
+    "onizlemeLinki": "onizleme/kahve-evi/index.html",
+    "aciklama": "Firuze ve krem tonlarında, renkli karo desenli bir kahve evi sitesi. Ziyaretçi fincanı kapatıp eğlencesine falına baktırıyor, falın yanında ona bir içecek öneriliyor. Boyama atölyesi, demleme listesi ve eve kahve siparişi hazır.",
+    "ozellikler": [
+      "Tıklanınca dönen fincanla kahve falı köşesi",
+      "Şu an açık mı, kapalı mı göstergesi",
+      "Boyama atölyesi ve WhatsApp'tan masa ayırtma",
+      "Demleme listesi ve imza içecekler",
+      "Eve paket kahve siparişi",
+      "Hediye: karekodlu menü ve masa kartları"
+    ],
+    "etiket": "Yeni",
+    "menuLinki": "onizleme/kahve-evi/menu/"
+  },
+  {
     "id": "kuafor-zumrut",
     "ad": "Zümrüt Kuaför",
     "kategoriler": [
